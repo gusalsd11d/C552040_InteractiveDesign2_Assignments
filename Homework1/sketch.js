@@ -281,4 +281,3 @@ function draw() {
   }
   endShape(CLOSE);
 }
-
